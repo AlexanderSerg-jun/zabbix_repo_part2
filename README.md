@@ -16,7 +16,7 @@
 5. `Требования к результату`
  `Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»`
 
-![Задание 1](https://github.com/AlexanderSerg-jun/8-03hw/blob/main/img/zadanie_1.png)`
+![Задание 1](https://github.com/AlexanderSerg-jun/zabbix_repo_part2/blob/main/img/zadanie_1.png)`
 
 ---
 
@@ -46,7 +46,7 @@
 4. `Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона.`
 
 
-![Задангие 2_3](https://github.com/AlexanderSerg-jun/8-03hw/blob/main/img/zadanie_2_3.png)`
+![Задангие 2_3](https://github.com/AlexanderSerg-jun/zabbix_repo_part2/blob/main/img/zadanie_2_3.png)`
 
 ### Задание 3
 
@@ -58,7 +58,7 @@
 3. `Разместите на нём несколько графиков на ваше усмотрение.`
 
 
-![Задание 4](https://github.com/AlexanderSerg-jun/8-03hw/blob/main/img/zadanie_4.png)`
+![Задание 4](https://github.com/AlexanderSerg-jun/zabbix_repo_part2/blob/main/img/zadanie_4.png)`
 
 
 
